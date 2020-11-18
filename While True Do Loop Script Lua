@@ -1,0 +1,21 @@
+
+
+while true do
+	local NAME = game.Lighting.ColorCorrection
+	
+	lol.Saturation = 1000000000000000013287555072
+	wait(0.001)
+	lol.Saturation = 0
+	wait(0.001)
+	lol.Saturation = 1000000000000000013287555072
+	wait(0.001)
+	lol.Saturation = 0
+	wait(0.001)
+	lol.Saturation = 1000000000000000013287555072
+	wait(0.001)
+	lol.Saturation = 0
+	wait(0.001)
+	lol.Saturation = 1000000000000000013287555072
+	wait(0.001)
+	lol.Saturation = 0
+end
